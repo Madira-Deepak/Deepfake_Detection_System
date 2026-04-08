@@ -1,11 +1,16 @@
-# Deepfake_Detection_System
-This application is used to check whether the given image is AI Generated which is FAKE or Clicked, Record which is REAL. 
+# React + Vite
 
-Hi, 
-I am the owner for this application. 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-You are free to use this app for your use. 
-But make sure you push mine and give me the credits for it. 
+Currently, two official plugins are available:
 
-Have fun!!
-And keep coding...
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+
+## React Compiler
+
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
