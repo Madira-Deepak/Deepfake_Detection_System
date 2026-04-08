@@ -1,0 +1,11 @@
+torch
+torchvision
+transformers
+pillow
+fastapi
+uvicorn
+python-multipart
+opencv-python
+mtcnn
+numpy
+tensorflow
