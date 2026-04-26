@@ -1,7 +1,7 @@
 import { useState, useRef, useCallback } from 'react'
 import './App.css'
 
-const API_URL = 'http://localhost:8000'   // FastAPI default port
+const API_URL = 'https://ryugen22-verdict-backend.hf.space'   // FastAPI default port
 
 export default function App() {
   const [image, setImage]         = useState(null)
